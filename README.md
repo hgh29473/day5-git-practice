@@ -1,2 +1,1 @@
-# day5-git-practice
-Practice
+# Day 5 Git Practice
